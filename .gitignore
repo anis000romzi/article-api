@@ -1,0 +1,14 @@
+/bin/
+/obj/
+/vendor/
+
+.env
+
+.idea/
+.vscode/
+
+.DS_Store
+
+*.log
+
+*.tmp
